@@ -1,0 +1,3 @@
+steps:
+  - label: Example script
+    command: .buildkite/script.sh
